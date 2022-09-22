@@ -1,6 +1,6 @@
 # PlotlyProject
 
-README IN PROGRESS.  Technical issues impacted abilities to complete challenge.  Will be resubmitting to make more professional.
+README IN PROGRESS.  Technical issues encountered.  Will be resubmitting to make more professional.
 
 Utilize Plotly.js, HTML, and JavaScript to create an interactive data visualization on results of a bacteria study. 
 
