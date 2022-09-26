@@ -11,3 +11,6 @@ The purpose of this project is to provide a dashboard which contains Plotly.js b
 
 ## Additional Customizations
 HTML was utilized to add more design to the webpage.  An image was added to the jumbotron with a font color which would show through the image.  A fairly opaque green background was added to the body to give the site a little more life.  Additionally, descriptions were added to the charts so the user knows what they are seeing.  
+
+A view of the webpage is shown below
+![Biodiversity_WebPage.png](https://github.com/dschul01/PlotlyProject/blob/main/static/images/Biodiversity_WebPage.png)
