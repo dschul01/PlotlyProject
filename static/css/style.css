@@ -1,0 +1,16 @@
+body {
+
+    color: #171515;
+    font-family: "Helvetica", sans-serif;
+  }
+  
+.jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100%;
+    text-align: center;
+    color: #ede7e7fb;
+  }
+
+  div {
+    background: rgba(0, 128, 0, 0.1) /*green background with 30% opacity*/
+  }

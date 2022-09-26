@@ -7,6 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Belly Button Biodiversity</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <!-- Our CSS -->
+  <link rel="stylesheet" href="static/css/style.css">
 </head>
 
 <body>
@@ -16,6 +18,7 @@
       <div class="col-md-12 jumbotron text-center">
         <h1>Belly Button Biodiversity Dashboard</h1>
         <p>Use the interactive charts below to explore the dataset</p>
+
       </div>
     </div>
     <div class="row">
@@ -33,21 +36,24 @@
       </div>
       <div class="col-md-5">
         <div id="bar"></div>
+        <p>The bar chart displays the Top 10 bacteria cultures for the selected Test Subject</p>
       </div>
       <div class="col-md-5">
         <div id="gauge"></div>
+        <p>The gauge displays the selected Test Subject's belly button weekly washing frequency</p>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
         <div id="bubble"></div>
+        <p>The bubble chart displays all cultures found within the selected Test Subject's belly button with marker sizes based on culture size</p>
       </div>
     </div>
   </div>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="charts.js"></script>
+  <script src="static/js/charts.js"></script>
 
 
 </body>
